@@ -19,7 +19,7 @@ This is a lightweight API test framework showcasing:
 
 ## Setup
 ```bash
-git clone <your-repo>
+git clone "https://github.com/EngyMetwaly29/Payrails.git"
 cd payrails
 cp .env.example .env
 # put your key into .env
