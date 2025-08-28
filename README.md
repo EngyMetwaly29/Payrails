@@ -24,7 +24,7 @@ cd payrails
 cp .env.example .env
 # put your key into .env
 
-#Installinf Dependency
+#Installing Dependency
 npm install
 
 #Running test
